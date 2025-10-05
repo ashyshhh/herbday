@@ -250,19 +250,7 @@ const handleWhyYou = () => {
   return (
     <div className="container">
       {/* overlay and floating hearts (decorative) */}
-      <div className="overlay" />
-      {Array.from({ length: 12 }).map((_, i) => (
-        <motion.div
-          key={i}
-          className="floating-heart"
-          initial={{ opacity: 0, y: 200 }}
-          animate={{ opacity: 1, y: -400, rotate: Math.random() * 360 }}
-          transition={{ duration: 10 + i, repeat: Infinity, ease: "linear", delay: i * 0.5 }}
-          style={{ left: `${(i * 9) % 100}%`, fontSize: `${14 + (i % 4) * 4}px` }}
-        >
-          {Math.random() > 0.5 ? "💖" : "✨"}
-        </motion.div>
-      ))}
+
 
       <div className="card">
 <header>

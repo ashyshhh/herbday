@@ -38,16 +38,31 @@ When you overthink, I just want to be beside you, holding your hand, reminding y
 I love our “us” — the teasing, the fights we fix, the morning pictures, the random reels, the shy blushes you try to hide when i tease you. Everything about you makes me want to be better. You are my girl, my love, my heart — and I promise, I’ll always be here choosing you, every day, always. 💞`,
 
   // Oct 7
-  `Day 3 (Oct 7) — My precious Ray of sunshine 🌸☀️💗  
-Every laugh you give lights up my day. Even your silence comforts me because I know you’re there. The way you secretly adore me is the cutest loop I want to be stuck in forever. Thank you for being my person. 💞`,
+  // Oct 7
+  `Day 3 (Oct 7) — My precious ray of sunshine 🌸☀️💗  
+
+You have no idea how much light and colour you’ve brought into my life. Everything feels brighter and softer just because you’re in it. Every day with you is a blessing I still can’t believe I get to have. .  
+
+You always stop yourself from expressing too much, thinking *“ye sarr pe chadh jaayega”*, and you pull back with your shy little “nahi nahi” whenever I talk about kisses or cuddles 😅. But, even your smallest gestures — the way you blush, the way you secretly adore me, — they’re already the most beautiful “I love you” I could ever get.  
+
+When I wake up, I don’t even remember anything else (you also know it takes time for processing everything); the first thing I do is open my phone to check your snap, just to feel a piece of you before the day even begins. That’s how much you’ve become my morning, my night, my in-between.  
+
+Tere jaisa koi nahi… *“Jo tum mere ho toh main kuch nahin maangoon duniya se”* — these words feel like my heart when I think of you. If life gave me a thousand chances, I’d still choose you in every story.  
+
+Thank you for being my sunshine, my safe place, my home in this world. I adore you more, and I’ll always be here — through your overthinking, your shyness, your “nahi nahi” — loving you a little more every day. 💞  
+` , 
 
   // Oct 8
   `Day 4 (Oct 8) — My cutuuuuuuuuu girl 💗  
-Those morning pictures you send? They’re my favorite part of the day. I replay them like a little movie that makes me smile until I drool. You’ve given me a million reasons to be grateful — your hate is my favorite gift. 💝`,
+Baby, those morning pictures you send? They are my FAVORITE part of the day, my personal sunshine alarm. I replay them like a little movie, frame by frame, until I can’t stop smiling like a fool. They make me laugh, they make me blush, and honestly, sometimes they make me drool because you’re THAT gorgeous.  
+
+You’ve given me a million reasons to be grateful — from your dimples that melt me, to your voice that feels like the sweetest comfort, to your little “I hate you” moments that are actually my favorite gift. Even your overthinking makes me love you more, because it shows how much you care. You are my happiness, my dumbo, my everything, and I’ll never get tired of saying it. 💝`,  
 
   // Oct 9
   `Day 5 (Oct 9) — My most adorable girl 💗  
-You are my home. No matter how far I roam, everything good leads back to you. Your smile makes everything better; your words heal me. I’ll stand by you through everything and remind you daily how precious you are. 💕`,
+You, my love, are my HOME. No matter how far I go, no matter how many miles separate us, everything good in my life always leads back to you. Your smile can heal the darkest day, your words have the power to fix my broken moods, and your dimples — oh god, your dimples — they undo me every time.  
+
+I want to remind you daily, again and again, how precious you are to me. You’re not just my girlfriend — you’re my best friend, my safe place, my miracle, my heart. Through every fight, every laugh, every moment, I’ll always stand by you. Because in the end, there’s no “me” without “you.” 💕`,  
 
   // Oct 10
   `Day 6 (Oct 10) — My loveee 💗  
@@ -250,7 +265,19 @@ const handleWhyYou = () => {
   return (
     <div className="container">
       {/* overlay and floating hearts (decorative) */}
-
+      <div className="overlay" />
+      {Array.from({ length: 12 }).map((_, i) => (
+        <motion.div
+          key={i}
+          className="floating-heart"
+          initial={{ opacity: 0, y: 200 }}
+          animate={{ opacity: 1, y: -400, rotate: Math.random() * 360 }}
+          transition={{ duration: 10 + i, repeat: Infinity, ease: "linear", delay: i * 0.5 }}
+          style={{ left: `${(i * 9) % 100}%`, fontSize: `${14 + (i % 4) * 4}px` }}
+        >
+          {Math.random() > 0.5 ? "💖" : "✨"}
+        </motion.div>
+      ))}
 
       <div className="card">
 <header>

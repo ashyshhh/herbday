@@ -60,17 +60,29 @@ You’ve given me a million reasons to be grateful — from your dimples that me
 
   // Oct 9
   `Day 5 (Oct 9) — My most adorable girl 💗  
-You, my love, are my HOME. No matter how far I go, no matter how many miles separate us, everything good in my life always leads back to you. Your smile can heal the darkest day, your words have the power to fix my broken moods, and your dimples — oh god, your dimples — they undo me every time.  
+You, my love, my pearl, my sweetesttt little muffin. No matter how far I go, no matter how many miles separate us, everything good in my life always leads back to you. Your smile works like my personal mood-fixer, your words have the power to fix my broken moods (and my headache as well), and your dimple — that should come with a warning sign for being too adorable.  
 
-I want to remind you daily, again and again, how precious you are to me. You’re not just my girlfriend — you’re my best friend, my safe place, my miracle, my heart. Through every fight, every laugh, every moment, I’ll always stand by you. Because in the end, there’s no “me” without “you.” 💕`,  
+Even though you fight with me always 😂, I still love you more every single time — because those little fights just remind me how dumbooooo you are, and I can’t stay mad at my dumbo000 for long.
 
+I want to remind you daily, again and again, how precious you are to me. You’re not just my girlfriend — you’re my All in one, my heart. Through every fight, every laugh, every moment, I’ll always stand by you. Because in the end, there’s no “me” without “you.” 💕`,
   // Oct 10
   `Day 6 (Oct 10) — My loveee 💗  
-You’ve made my life more colorful. When the world gets heavy, your voice is my anchor. I’ll protect your heart and celebrate your light always. I LOVE YOU THE MOST. 💞`,
+Every day with you feels like bestestttt with you. You’ve made my world softer, brighter, happier — like everything just makes sense when you’re around. 💞
+
+You have no idea how much I wait for your call every single day. Sometimes I literally sit there praying, “Please god, aaj mummy thoda bahar chali jaaye 😂,” so I can hear your voice and talk to you . That moment when i get the message "kya kar rahe ho...mummy bahar gayi hai — it’s like my whole mood instantly lights up. and on call Your “hmm” alone can fix everything.
+And you know my favorite thing to do? Teasing you more when you’re angry . Making you even more angry — like full gussa mode on —  i love doing that again and again. And honestly, after making you more angry, it’s so funnn 😆 — watching you go like “ 😤” while I’m just sitting there laughing. and i find it extraaa cutuuuuuuuu when you try to act all serious.
+
+and thats my mission “make her more angry” 😂💗 
+ Even with all the distance, even with the waiting, I would d choose this love a thousand times. Because it’s you — my cutuuuuuuu girl, my slow website, my favorite person. 💫`,
 
   // Oct 11
   `Day 7 (Oct 11) — My sweetest girl 💕  
-I remember the moment I realized I was falling for you — a million tiny things that pulled me in. Since then, everything changed for the better. You are my daily blessing, my favorite habit 💗`,
+I still can’t believe how unexpectedly we started dating — who would’ve thought that something that began so casually would turn into something this beautiful? And now, after these 3 years, I find myself loving you more and more every single day. 💞
+
+
+Even on the toughest days, just thinking about you makes everything lighter. I love teasing you, making you laugh, and yes — even watching you get a little mad at me sometimes 😏. It’s all part of the fun. You’re my cutuuuuuuuu girl, my precious ray of sunshine, my kiala. 💞
+
+Distance doesn’t make us weaker — it makes every call, every text, every little moment we share even more precious. I can’t wait for all the days we’ll get to spend together, laughing, teasing, and loving each other endlessly. 💗`,
 
   // Oct 12
   `Day 8 (Oct 12) — My precious Ray of sunshine 🌸☀️  
@@ -145,7 +157,7 @@ const backgrounds = [
 
   const randomMessages = [
     `You are my sweetest little muffin 🧁 — the one whose morning pictures I replay a thousand times. Your smile, your dimples, your eyes…they’re my favorite parts of every day. I love being loved by you and even love being "hated" by you in that cute way 💗.`,
-    `These 37 months with you are the most beautiful chapter of my life. I’m so proud of us. Every day with you feels like a blessing and I’ll always choose you, baby. 💕`,
+    `These 37 months with you are the most beautiful chapter of my life. I’m so proud of us. Every day with you feels like a blessing and I’ll always choose you, babeeee. 💕`,
     `Teasing you is my favourite — because your blush is everything. I have a million tiny tricks just to make you smile and I’ll never stop using them. 🥰`,
     `Long distance is hard but worth it because you make everything better. I can’t wait for the day I hold you on the 1st and never let go. 💞`,
     `You make me feel like the luckiest person alive — your love makes me want to be the best man I can be. I adore you endlessly. 💗`,

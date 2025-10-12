@@ -90,7 +90,7 @@ Tomorrow is almost here and my heart is racing with excitement. I can’t wait t
 
   // Oct 13
   `Day 9 (Oct 13) — My dumbo000 💗  
-This is the eve of your birthday and I want to say thank you — for being patient, for loving me, for choosing me. I’m proud of you, of us, and I promise to make your birthday feel like the whole world is cheering for you. Sleep well tonight, my love — tomorrow is yours. 🎂`,
+You know what’s crazy? How every single day with you still feels new, even after all this time. We’ve laughed, fought, teased, made up, and somehow fallen even deeper for each other through it all. somehow ended up becoming each other’s person. These three years have been full of laughs, fights, “I hate yous” that actually mean “I love yous,” and way too many moments where I couldn’t stop smiling because of you. 💞Sometimes I just stop and think — how  lucky to have you? My dumbooooo girl, the one who gets angry so fast but melts even faster when I tease her 😜. You make life so much lighter and fun in the most unexpected ways. You’re my dumboooo girl, my favorite person, and the one who somehow makes my day just by existing. I love how real we are — the teasing, the love, the hate, all of it AND AND I LOVE YOU SO MUCH`,
 
   // Oct 14 (Birthday Eve)
   `Day 10 (Oct 14) — My love, my pearl 💗  

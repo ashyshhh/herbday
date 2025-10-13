@@ -94,11 +94,10 @@ You know what’s crazy? How every single day with you still feels new, even aft
 
   // Oct 14 (Birthday Eve)
   `Day 10 (Oct 14) — My love, my pearl 💗  
-The night before your birthday feels like magic, because tomorrow the whole world will silently celebrate the most beautiful soul — YOU. Today, I just want to thank you. Thank you for being patient with me when I mess up, for choosing me every single day even when I’m difficult, for loving me with all your heart. You’ve turned my ordinary days into moments filled with warmth, laughter, and the prettiest kind of love.  
+Can you believe tomorrow’s your day already? I swear time flies when it’s spent loving you and you hating mee. These three years… from how unexpectedly it all started to how deeply I love you now — everything feels unreal sometimes. It’s like I blinked, and suddenly you became the center of everything. 💞.  Tomorrow will be your day, but honestly, every day already feels special because of you because of the prettiest kind of hate. AND AND I WILL ALWAYS LOVE BEING HATED BY YOU by my cutuuuuuuuu girl💞. You deserve every bit of happiness in the world, You re not just my girlfriend; you’re my favorite person, my calm spot, my biggest chaos, my love, my pearl, my heart MY ALL IN ONE HUMAN, You are my home in every way that matters — the one person who feels like both comfort and excitement, KEep hating me with all your heart (I’ll keep loving it, always. 
 
-I’m proud of you — the girl who makes me laugh with her dumb little jokes, the girl whose dimples could melt an entire city, the girl who hides her softness behind “I hate you” but deep down is the most caring person I’ve ever known. You are my sunshine, my safe place, my home.  
-
-I promise tomorrow will feel like the whole universe is cheering just for you, because in my world, you ARE the universe. Sleep well tonight, my love. Tomorrow, I’ll remind you with every word how you are my everything. 🎂💞`,
+I’m proud of you — the girl who makes me laugh with her dumbest little things, the girl whose smile melts my whole mood, the girl who hides her softness behind “I hate you” but loves in the purest way possible. You’re my prettiest thought, my forever calm, my sweetest kind of peace. 💞
+And just so you know… your birthday doesn’t make tomorrow specia — it’s special because you exist. Because YOUUUU, my purple crayon 💜, my sunshine, my favorite person ever. 💗`,
 
   // Oct 15 (Birthday)
   `Oct 15 — Happiestttttt 19th Birthday 🎉💗  

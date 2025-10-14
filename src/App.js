@@ -101,13 +101,26 @@ And just so you know… your birthday doesn’t make tomorrow specia — it’s 
 
   // Oct 15 (Birthday)
   `Oct 15 — Happiestttttt 19th Birthday 🎉💗  
-My precious ray of sunshine ✨, my sweet little muffin 🧁, my dumbo, my slow website, my prettiest girl — today is YOUR day, the day my world was blessed with the most amazing person ever. You are not just my girlfriend; you are my best friend, my heart, my home, my safe place, my everything.  
+HAPPIESTTT BIRTHDAY TO MY PRETTIESTTTT GIRL, MY PURPLE CRAYON 💜
+My heart, my pearl, my love —Today feels extra special because it belongs to the girl who made every ordinary day in my life feel like something worth celebrating. 
 
-Your smile makes the darkest day brighter. Your eyes — those prettiest eyes — are the reason I lose myself every time. Your voice calms me, your laugh heals me, your presence gives me peace. These 37 months with you have been the happiest of my life, and even with long distance, you’ve made every second worth it.  
+You’ve been my chaos (The prettiest chaos I’ll always choose ), my calm, my headache, my peace — all at once 💗. Every second with you feels like magic, every fight ends with me falling for you even harder, and “I hate you”sounds like love to me and make my days brighter because that somehow sound sweeter than I love you  You are my comfort person, my favorite kind of, my most beautiful constant. The one who makes even distance feel small. 
 
-I can’t wait for the day I hold you in my arms and tell you everything in person, but until then, I’ll keep pouring my heart into words like this, because you deserve to be reminded every single day of how loved you are. You are my sunshine, my treasure, my miracle. I LOVE YOU THE MOST 💗 and I will ALWAYS love being “hated” by you because it’s the cutest thing ever.  
+You make my world brighter just by existing — your smile, yyour eyes that somehow. You have this softness that feels like home and that keeps me obsessed. I’m so proud of the person you’re — strong, kind, full of hate for me, even when you act like you’re mad at me 💞.
 
-Happiest 19th birthday, my girl, my life, my everything 💗💗💗. I’m so lucky to be yours — today, tomorrow, forever. ✨💕`
+You deserve the happiest, most beautiful things in the world, because YOU are the most beautiful thing that’s ever happened to me. I’ll always be your biggest supporter, your safe place, your person — the one who’ll love you a little louder every day. You’ll always be my dumboooo, my sunshine, my prettiest girl, my all-in-one human.
+
+My love— it’s finally your day, and all I can think about is how beautifully you’ve colored my world just by being in it. The one who makes me believe in love, the one who makes me want to be better every single day. You’re my prettettiestttt girl, my constant thought, my favourite hello. You’re my purple crayon, the one I’ll always use to color my sky. 💜 
+
+It still amazes me how we started so randomly and ended up here — three whole years later — still choosing each other, still teasing, still me loving and you hating me, still fighting on stupid things, but never giving up on “us.” 💗 These three years of missing you, craving your hugs, your voice, seeing you blushing when i am teasing you, your shy smiles — and still, it never feels enough. Long distance isn’t easy, but with you, it’s always been worth it, because you’re worth every wait, every call, every “mummy bahar gayi hai” moment 😂💞 
+
+YOU DESERVE THE ENTIRE UNIVERSE, LOVE — BUT SINCE I CAN’T GIVE YOU THAT, I’LL KEEP LOVING YOU HARDER EVERY SINGLE DAY INSTEAD 💞 
+
+You’re it. You’re my person. Youre my Heart💗  You’re my favorite everything.
+ Thank you for existing, for choosing me, for being you.
+HAPPIEST BIRTHDAY, MY LOVE 💗 I LOVE YOU THE MOSTTT AND I’LL ALWAYS LOVE BEING HATED BY YOU 😭💞
+ My pretty girl, my purple crayon, my always 💜
+`
 ];
 
   // Background config: 'image' for Oct 1 and Oct 15, otherwise gradient string
